@@ -1,9 +1,9 @@
 from twitter import Twitter, OAuth, TwitterHTTPError
 
-OAUTH_TOKEN = '171006213-fwxpi1D1w6OrK8Ojwv7f1BboPBHvEVKq8m6lGSsq'
-OAUTH_SECRET = 'K8CuGPfk5fXksUWMcudqXiIMtGvaF4Heb16phh9xXANRH'
-CONSUMER_KEY = 'C69L0bwIsNd0ws42XkaloK1qA'
-CONSUMER_SECRET = 'YkdbBUFa07jWQ2W6OV2oz3w7xMq7jSwYdWHhNjBigceWBdw9Dv'
+OAUTH_TOKEN = 'add ur outh token'
+OAUTH_SECRET = 'add ur outh os'
+CONSUMER_KEY = 'add ur outh ck'
+CONSUMER_SECRET = 'add ur outh cs'
 
 t = Twitter(auth=OAuth(OAUTH_TOKEN, OAUTH_SECRET,
             CONSUMER_KEY, CONSUMER_SECRET))
